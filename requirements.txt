@@ -1,0 +1,17 @@
+# Core LangChain packages
+langchain-community
+langchain-core
+langchain-google-genai
+
+# PDF loader & text splitting
+pypdf
+langchain-text-splitters
+
+# Vector database
+chromadb
+
+# Environment variables
+python-dotenv
+
+# Optional but recommended for clean output
+tiktoken
